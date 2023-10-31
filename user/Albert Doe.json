@@ -1,0 +1,12 @@
+{
+	"Name": "Albert Doe",
+	"Age": 89,
+	"Contact": "2348154397887",
+	"Company": "Google Tech",
+	"Address": {
+		"City": "Egbeda",
+		"State": "Lagos",
+		"Country": "9ja",
+		"Pincode": 88845
+	}
+}

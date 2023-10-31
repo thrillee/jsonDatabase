@@ -1,0 +1,12 @@
+{
+	"Name": "John Doe",
+	"Age": 19,
+	"Contact": "2348154397777",
+	"Company": "Saas Tech",
+	"Address": {
+		"City": "Ikorodu",
+		"State": "Lagos",
+		"Country": "9ja",
+		"Pincode": 88845
+	}
+}
